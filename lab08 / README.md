@@ -1,3 +1,5 @@
-Link page facebbok: https://www.facebook.com/profile.php?id=61595349693294
+# BÀI TẬP LAB 08
 
-Link group zalo: https://zalo.me/g/36dfgr22pyoafvphpjbc
+##  Bài 5: Giao tiếp trực tuyến cơ bản
+- **Link page facebbok:** https://www.facebook.com/profile.php?id=61595349693294
+- **Link group zalo:** https://zalo.me/g/36dfgr22pyoafvphpjbc
